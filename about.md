@@ -11,8 +11,6 @@ FishStalkers use machine learning to robustly understand the connection between 
 
 You can find the open-source code for Developed by the FishStalker Team <a href="https://github.com/orgs/FishStalkers/repositories">HERE</a>
 
-You can find the VIP Course description <a href="https://vip.gatech.edu/apply-undergraduate-students">HERE</a> and apply to join for academic credit <a href="https://vip.gatech.edu/teams/vxs">HERE</a>
-
 <!--
 
 <ol>
